@@ -1,0 +1,91 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    text-align: center;
+    background-color: rgb(205, 228, 231);
+    /* height: 0px;
+    width: 700; */
+    display: inline-block;
+}
+.h1{
+    font-size: 15px;
+}
+div>ul{
+    padding-top: 5px;
+    color: rgb(8, 39, 39);
+    text-align: center;
+}
+.empty-box{
+
+}
+*******************
+/* sonradan gelenler */
+.search {
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #f2f2f2 ;
+    border-radius: 1px;
+    font-size:18px;
+    padding: 5px 10px 5px 10px;
+    font-style: Arial;
+}
+.img {
+    width: 20%;
+    height: auto;
+ }
+ .img2 {
+    width: 2%;
+    height: auto;
+ }
+ img:hover {
+    transform: scaleX(-1);
+  }
+
+.search {
+    width: 480px;
+    box-sizing: border-box;
+    border: 1px solid #f2f2f2 ;
+    border-radius: 1px;
+    font-size:18px;
+    
+    font-style: Arial;
+}
+.s-margin{
+    margin-right: 80%;
+    margin-top: 5px;
+    
+    
+}
+.sidebar {
+    display: inline-block;
+    background-color:#ffffff;
+    
+}
+.l-bar{
+    float: left;
+    padding-top: 10px;
+    padding-left: 30px;
+    color: #96989b;
+}
+.r-bar{
+   float: right ;
+   padding-top: 10px;
+   padding-right: 30px;
+   color: #96989b;
+}
+/* .t-color{  bosta    color: rgb(51, 224, 16);
+} */
+
+.pHiOh {
+    
+} /* alt satir buton rengi */
+
+div>a{
+    margin-right: 1%;
+    
+}  /* alt satir kelime bosluklari */
+
